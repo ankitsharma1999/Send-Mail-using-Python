@@ -56,7 +56,7 @@ def send_mail():
         server.quit()
         popupmsg("Email Sent!")
     except:
-        popupmsg("Email Not Sent")
+        popupmsg("Email Not Sent.\n Some Error Occured")
     sys.exit()
 
 
