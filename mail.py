@@ -1,5 +1,5 @@
 import smtplib
-import config
+from config import details
 import tkinter as tk
 from tkinter import ttk
 import sys
@@ -19,7 +19,7 @@ def popupmsg(msg):
 
     label = ttk.Label(popup, text=msg)
     label.pack(side="top", fill="x", pady=10)
-    B1 = ttk.Button(popup, text="Okay", bg="red", command = popup.destroy)
+    B1 = ttk.Button(popup, text="Okay", command = popup.destroy)
     B1.pack()
     popup.mainloop()
 
@@ -42,7 +42,7 @@ def send_mail():
             popupmsg("Please Enter The Pin")
         else:
             break
-    if pin==config.Pin:
+    if pin==details.Pin:
         pass
     else:
         popupmsg("Wrong Pin")
@@ -51,8 +51,8 @@ def send_mail():
         server = smtplib.SMTP("smtp.gmail.com:587")
         server.ehlo()
         server.starttls()
-        server.login(config.Email, config.Password)
-        server.sendmail(config.Email, recv, msg)
+        server.login(details.Email, details.Password)
+        server.sendmail(details.Email, recv, msg)
         server.quit()
         popupmsg("Email Sent!")
     except:
