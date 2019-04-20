@@ -6,4 +6,6 @@
 * sys
 * tkinter
 
-All these modules can be downloaded using the `pip install` command
+All these modules can be downloaded using the `pip install` command.
+
+**In some of the versions these modules come pre downloaded**
