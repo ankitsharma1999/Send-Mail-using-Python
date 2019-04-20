@@ -18,7 +18,7 @@
 ## How to Use
 
 * First of all clone this repo on your machine using the `git clone` command.
-* Next open your mail account and then grabt access permission to less secure apps.
+* Next open your mail account and then grant access permission to less secure apps.
 * Open the `config.py` file and add your valid mail id and password.
 * Leave the Pin variable as it is or add your own pin. This pin will be asked everytime you want to send a mail.
 * Open command prompt or terminal and navigate to the cloned folder.
