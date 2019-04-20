@@ -8,8 +8,6 @@
 #### Pop UP Window
 ![](images/Screenshot%20from%202019-04-20%2016-04-49.png)
 
----
-
 **Requirements and Dependencies**
 * Python3
 * smtplib
@@ -20,8 +18,6 @@
 *All these modules can be downloaded using the `pip install` command.*
 
 **Note: In some of the versions these modules come pre downloaded.**
-
----
 
 ## How to Use
 
@@ -39,8 +35,6 @@
 
 * Add a message and a valid recipient mail id and the pin and click on `Send`.
 
----
-
 ## Here are the steps to create a .exe file of the program
 
 * Navigate to the cloned folder.
@@ -49,15 +43,11 @@
 
 * When the process is completed navigate to the *dist* folder to get the *.exe* file.
 
----
-
 ## To Dos:
 
 * Write this whole code in OOP model.
 
 * Create a Window that asks user for their mail id, password and pin and saves it to `config.py` file
-
----
 
 **Currently works only with G-Mail.** 
 
