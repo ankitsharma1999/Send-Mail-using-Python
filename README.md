@@ -28,4 +28,4 @@
 * Run the following command `pyinstaller --onefile mail.py`.
 * When the process is completed navigate to the *dist* folder to get the *.exe* file.
 
-**Any isuues or bug reports will be highly appreciated**
+**Any issues or bug reports will be highly appreciated**
