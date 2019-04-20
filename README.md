@@ -19,6 +19,8 @@
 
 **Note: In some of the versions these modules come pre downloaded.**
 
+***
+
 ## How to Use
 
 * First of all clone this repo on your machine using the `git clone` command.
@@ -35,6 +37,8 @@
 
 * Add a message and a valid recipient mail id and the pin and click on `Send`.
 
+***
+
 ## Here are the steps to create a .exe file of the program
 
 * Navigate to the cloned folder.
@@ -43,11 +47,15 @@
 
 * When the process is completed navigate to the *dist* folder to get the *.exe* file.
 
+***
+
 ## To Dos:
 
 * Write this whole code in OOP model.
 
 * Create a Window that asks user for their mail id, password and pin and saves it to `config.py` file
+
+***
 
 **Currently works only with G-Mail.** 
 
