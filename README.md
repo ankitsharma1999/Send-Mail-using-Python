@@ -1,9 +1,9 @@
 # Send Mail using Python
 ### A GUI Application made using Tkinter module in Python 3
 
-**Main Window**
+#### Main Window
 ![](images/Screenshot%20from%202019-04-20%2016-03-33.png)
-**Pop UP Window**
+#### Pop UP Window
 ![](images/Screenshot%20from%202019-04-20%2016-04-49.png)
 
 **Requirements and Dependencies**
