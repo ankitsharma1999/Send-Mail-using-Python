@@ -8,6 +8,8 @@
 #### Pop UP Window
 ![](images/Screenshot%20from%202019-04-20%2016-04-49.png)
 
+***
+
 **Requirements and Dependencies**
 * Python3
 * smtplib
