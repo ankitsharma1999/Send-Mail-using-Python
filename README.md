@@ -43,7 +43,7 @@
 
 ## To Dos:
 
-* Create a Window that asks user for their mail id and password and saves it to `config.py` file
+* Create a Window that asks user for their mail id, password and pin and saves it to `config.py` file
 
 **Currently works only with G-Mail.** 
 
