@@ -41,6 +41,10 @@
 
 * When the process is completed navigate to the *dist* folder to get the *.exe* file.
 
+## To Dos:
+
+* Create a Window that asks user for their mail id and password and saves it to `config.py` file
+
 **Currently works only with G-Mail.** 
 
 **Any issues or bug reports will be highly appreciated**
