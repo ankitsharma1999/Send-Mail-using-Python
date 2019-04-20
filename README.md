@@ -10,7 +10,7 @@
 
 *All these modules can be downloaded using the `pip install` command.*
 
-**In some of the versions these modules come pre downloaded.**
+**Note: In some of the versions these modules come pre downloaded.**
 
 ## How to Use
 
