@@ -33,5 +33,5 @@
 * Run the following command `pyinstaller --onefile mail.py`.
 * When the process is completed navigate to the *dist* folder to get the *.exe* file.
 
-**Currently works only with G-Mail.**
+**Currently works only with G-Mail.** 
 **Any issues or bug reports will be highly appreciated**
