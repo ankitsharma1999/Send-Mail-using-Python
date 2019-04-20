@@ -6,7 +6,7 @@ import sys
 
 main = tk.Tk()
 
-main.geometry("400x150")
+main.geometry("400x250")
 main.title("Send Mail")
 main.resizable(False, False)
 
