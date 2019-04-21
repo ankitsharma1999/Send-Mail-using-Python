@@ -1,4 +1,5 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)]()
 
 # Send Mail using Python
 ### A GUI Application made using Tkinter in Python 3
