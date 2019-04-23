@@ -5,6 +5,7 @@ from tkinter import ttk
 import sys
 
 main = tk.Tk()
+# Created A Window
 
 main.geometry("400x250")
 main.title("Send Mail")
